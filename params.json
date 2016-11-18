@@ -1,6 +1,6 @@
 {
   "name": "Devtoolinvestors",
   "tagline": "List of early stage investors that have invested in developer companies",
-  "body": "### About \r\nHeavybit's list of early stage dev tool companies. We used these criteria\r\n\r\n####James Lindenbaum  \r\n**Type**: Angel  \r\n**Location**: San Francisco  \r\n\r\n",
+  "body": "### About \r\nA list of early stage dev tool investors based off information on Crunchbase and AngelList. Includes people who asked to be added, excludes people who asked not be on here. \r\n\r\n####Ullas Naik ([Crunchbase](https://www.crunchbase.com/person/ullas-naik#/entity), [AngelList](https://angel.co/ullas-naik), [LinkedIn](https://www.linkedin.com/in/ullasnaik)\r\n**Type**: Angel  \r\n**Location**: San Francisco  \r\n**Dev Tool Companies Invested In**: Authy, Runscope, Bitnami, Amiato, BladeLogic, BlockCypher, CloudVolumes, PubNub, Rescale, Skymind, Trigger.io, Keen, Citus Data, Runscope\r\n\r\n**Total Number of Investments**: 101\r\n\r\n\r\n",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
