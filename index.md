@@ -71,13 +71,13 @@ A list of early stage dev tool investors based off information on Crunchbase and
 **Location**: San Francisco  
 **Dev Tool Companies Invested In**: NodePrime, TrueVault, Citus Data
 
-####Ed Sim ([LinkedIn](https://www.linkedin.com/in/edsim), [crunchbase](https://www.crunchbase.com/person/ed-sim), [AngelList](https://angel.co/edsim))  
+#### Ed Sim ([LinkedIn](https://www.linkedin.com/in/edsim), [crunchbase](https://www.crunchbase.com/person/ed-sim), [AngelList](https://angel.co/edsim))  
 **Type**: Early Stage Fund  
 **Firm**: Boldstart Ventures  
 **Location**: New York  
 **Dev Tool Companies Invested In**: Replicated, Zillabyte, RebelMail, IOPipe, Dark, Snyk
 
-####Michael Dearing ([crunchbase](https://www.crunchbase.com/person/michael-dearing#/entity), [AngelList](https://angel.co/mcgd))  
+#### Michael Dearing ([crunchbase](https://www.crunchbase.com/person/michael-dearing#/entity), [AngelList](https://angel.co/mcgd))  
 **Type**: Early Stage Fund  
 **Firm**: Harrison Metal  
 **Location**:   
