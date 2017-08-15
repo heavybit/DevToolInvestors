@@ -1,7 +1,7 @@
 ### About 
 A list of early stage dev tool investors based off information on Crunchbase and AngelList. Includes people who asked to be added, excludes people who asked not be on here. 
 
-####Elad Gil ([LinkedIn](https://www.linkedin.com/in/eladgil), [crunchbase](https://www.crunchbase.com/person/elad-gil#/entity), [AngelList](https://angel.co/eladgil))  
+#### Elad Gil ([LinkedIn](https://www.linkedin.com/in/eladgil), [crunchbase](https://www.crunchbase.com/person/elad-gil#/entity), [AngelList](https://angel.co/eladgil))  
 **Type**:   
 **Location**: San Francisco  
 **Dev Tool Companies Invested In**: Diffbot, Zeplin, Checkr, Eligible, Bitnami, Mailgun, Shyp, Zeplin, Stripe
