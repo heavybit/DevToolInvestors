@@ -1,0 +1,8 @@
+title: Devtoolinvestors
+description: List of early stage investors that have invested in developer companies
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-slate
+
+gems:
+  - jekyll-mentions
