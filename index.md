@@ -1,16 +1,10 @@
 ### About 
 A list of early stage dev tool investors based off information on Crunchbase and AngelList. Includes people who asked to be added, excludes people who asked not be on here. 
 
-####Ullas Naik ([LinkedIn](https://www.linkedin.com/in/ullasnaik), [crunchbase](https://www.crunchbase.com/person/ullas-naik#/entity), [AngelList](https://angel.co/ullas-naik))  
-**Type**: Early Stage Fund  
-**Firm**: Streamlined Ventures  
-**Location**: San Francisco  
-**Dev Tool Companies Invested In**: Authy, Bitnami, Amiato, BladeLogic, BlockCypher, CloudVolumes, PubNub, Rescale, Skymind, Trigger.io, Keen, Citus Data, Runscope
-
 ####Elad Gil ([LinkedIn](https://www.linkedin.com/in/eladgil), [crunchbase](https://www.crunchbase.com/person/elad-gil#/entity), [AngelList](https://angel.co/eladgil))  
-**Type**: Angel  
+**Type**:   
 **Location**: San Francisco  
-**Dev Tool Companies Invested In**: Diffbot, Zeplin, Checkr, Eligible, Bitnami, Mailgun, Shyp, Zeplin, Diffbot, Stripe
+**Dev Tool Companies Invested In**: Diffbot, Zeplin, Checkr, Eligible, Bitnami, Mailgun, Shyp, Zeplin, Stripe
 
 ####Othman Laraki ([LinkedIn](https://www.linkedin.com/in/othmanlaraki), [crunchbase](https://www.crunchbase.com/person/othman-laraki#/entity), [AngelList](https://angel.co/othman))  
 **Type**: Angel  
@@ -33,7 +27,7 @@ A list of early stage dev tool investors based off information on Crunchbase and
 **Type**: Early Stage Fund  
 **Firm**: Baseline Ventures  
 **Location**: San Francisco  
-**Dev Tool Companies Invested In**: Heroku, Iron.io, Apiary, Librato, Crashlytics, PagerDuty, Pantheon
+**Dev Tool Companies Invested In**: Heroku, Iron.io, Apiary, Librato, Crashlytics, PagerDuty, Pantheon, CircleCI
 
 ####Aaron Iba ([LinkedIn](https://www.linkedin.com/in/aaroniba), [crunchbase](https://www.crunchbase.com/person/aaron-iba#/entity), [AngelList](https://angel.co/aaroniba))  
 **Type**: Angel  
@@ -81,4 +75,11 @@ A list of early stage dev tool investors based off information on Crunchbase and
 **Type**: Early Stage Fund  
 **Firm**: Boldstart Ventures  
 **Location**: New York  
-**Dev Tool Companies Invested In**: Replicated, Zillabyte, RebelMail, Snyk
+**Dev Tool Companies Invested In**: Replicated, Zillabyte, RebelMail, IOPipe, Dark, Snyk
+
+####Michael Dearing ([crunchbase](https://www.crunchbase.com/person/michael-dearing#/entity), [AngelList](https://angel.co/mcgd))  
+**Type**: Early Stage Fund  
+**Firm**: Harrison Metal  
+**Location**:   
+**Dev Tool Companies Invested In**: 
+
